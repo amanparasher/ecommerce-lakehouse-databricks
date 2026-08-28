@@ -1,4 +1,4 @@
-# E-Commerce Retention Lakehouse
+# E-Commerce Retention
 ### End-to-End Delta Lake Pipeline with MLflow-Tracked Churn Prediction
 
 ![Databricks](https://img.shields.io/badge/Databricks-Community%20Edition-FF3621?style=flat&logo=databricks&logoColor=white)
